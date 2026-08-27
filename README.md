@@ -15,4 +15,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## String
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
