@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Divide and Conquer
 |  |
