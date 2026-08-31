@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -62,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
