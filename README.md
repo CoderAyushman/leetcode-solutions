@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
