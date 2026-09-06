@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Union-Find
