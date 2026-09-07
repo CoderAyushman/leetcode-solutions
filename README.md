@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0724-find-pivot-index](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -78,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
@@ -111,4 +113,8 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3903-smallest-stable-index-i](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
