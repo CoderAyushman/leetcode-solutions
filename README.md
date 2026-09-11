@@ -23,6 +23,7 @@
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
@@ -44,6 +45,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
@@ -58,6 +60,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -131,4 +134,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
