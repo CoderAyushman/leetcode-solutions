@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -95,6 +96,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
