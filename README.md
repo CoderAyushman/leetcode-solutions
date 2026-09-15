@@ -56,6 +56,7 @@
 | [0056-merge-intervals](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0503-next-greater-element-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
