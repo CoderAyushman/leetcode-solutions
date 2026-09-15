@@ -34,11 +34,13 @@
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
@@ -80,6 +82,7 @@
 | [0115-distinct-subsequences](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Union-Find
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
