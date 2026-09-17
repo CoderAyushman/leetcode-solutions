@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0069-sqrtx) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Newton's Method
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -63,6 +65,7 @@
 | [0724-find-pivot-index](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -83,6 +86,7 @@
 | [0053-maximum-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Union-Find
@@ -161,4 +165,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
