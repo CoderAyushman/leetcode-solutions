@@ -24,6 +24,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -37,6 +38,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/CoderAyushman/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
