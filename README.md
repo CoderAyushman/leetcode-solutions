@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0069-sqrtx) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3871-count-commas-in-range-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/CoderAyushman/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/CoderAyushman/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/CoderAyushman/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
